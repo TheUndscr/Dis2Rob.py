@@ -1,4 +1,4 @@
-# ANOTHER IMPORTANT NOTE: Sometimes people may link an alternate Roblox account to their Discord account. We can't do much about that.
+# IMPORTANT NOTE: Sometimes people may link an alternate Roblox account to their Discord account. We can't do much about that.
 import sys
 sys.path.insert(1, "mainmods")
 
