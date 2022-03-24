@@ -1,10 +1,10 @@
-# IMPORTANT NOTE: DiscordID fetch from RobloxID has not been implemented into the program as of yet. 
 # ANOTHER IMPORTANT NOTE: Sometimes people may link an alternate Roblox account to their Discord account. We can't do much about that.
 import sys
 sys.path.insert(1, "mainmods")
-#color for something idk
+
+# Color for something idk
 Red = "\033[0;31m"
-# imports
+# Imports
 import time
 import fetcher
 ft = fetcher.Fetcher()
